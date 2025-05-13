@@ -3,5 +3,7 @@
     height: 150px;
     border-radius: 50%;
     border: 2px solid black;
+    display: block; /* Necesario para que funcione margin: auto */
+    margin: 20px auto; /* Centrado horizontal con margen vertical */
     
 }
